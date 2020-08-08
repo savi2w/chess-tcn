@@ -1,6 +1,6 @@
 # Chess TCN
 
-Encode and decode helpers for TCN alg from https://www.chess.com/
+Encode and decode helpers for TCN algo from https://www.chess.com/
 
 ## Installation
 
