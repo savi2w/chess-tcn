@@ -1,7 +1,7 @@
 {
   "name": "chess-tcn",
   "version": "1.0.2",
-  "description": "Encode and decode helpers for TCN alg from https://www.chess.com/",
+  "description": "Encode and decode helpers for TCN algo from https://www.chess.com/",
   "main": "tcn.js",
   "types": "tcn.d.ts",
   "repository": {
