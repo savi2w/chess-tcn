@@ -2,7 +2,11 @@
 
 Encode and decode helpers for TCN alg from https://www.chess.com/
 
-## API
+## Installation
+
+`npm i chess-tcn`
+
+## Usage
 
 ```javascript
 const tcn = require("chess-tcn");
