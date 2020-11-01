@@ -1,25 +1,11 @@
 {
   "name": "chess-tcn",
-  "version": "1.0.2",
   "description": "Encode and decode helpers for TCN algo from https://www.chess.com/",
+  "version": "1.0.3",
   "main": "tcn.js",
   "types": "tcn.d.ts",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/weslenng/chess-tcn.git"
-  },
-  "keywords": [
-    "chess",
-    "chess.com",
-    "tcn"
-  ],
   "author": "Weslen Nascimento <weslenng@outlook.com>",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/weslenng/chess-tcn/issues"
-  },
-  "homepage": "https://github.com/weslenng/chess-tcn#readme",
-  "dependencies": {},
   "devDependencies": {
     "jest": "^26.2.2"
   }

@@ -9,18 +9,14 @@ const moves = [
 
 const results = ["mC", "0S", "ks", "ZJ"];
 
-describe("encode", () => {
-  it("should encode", () => {
-    moves.map((move, index) => {
-      expect(tcn.encode(move)).toEqual(results[index]);
-    });
+it("should encode", () => {
+  moves.map((move, index) => {
+    expect(tcn.encode(move)).toEqual(results[index]);
   });
 });
 
-describe("decode", () => {
-  it("should decode", () => {
-    results.map((result, index) => {
-      expect(tcn.decode(result)).toEqual(moves[index]);
-    });
+it("should decode", () => {
+  results.map((result, index) => {
+    expect(tcn.decode(result)).toEqual(moves[index]);
   });
 });
