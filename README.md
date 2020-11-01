@@ -2,10 +2,6 @@
 
 Encode and decode helpers for TCN algo from https://www.chess.com/
 
-## Installation
-
-`npm i chess-tcn`
-
 ## Usage
 
 ```javascript
