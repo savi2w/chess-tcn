@@ -4,7 +4,7 @@
   "version": "1.0.3",
   "main": "tcn.js",
   "types": "tcn.d.ts",
-  "author": "Weslen Guerreiro <weslenng@outlook.com>",
+  "author": "Weslen Guerreiro <omppye@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "jest": "^26.2.2"
