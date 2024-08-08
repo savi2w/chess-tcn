@@ -1,0 +1,12 @@
+{
+  "name": "@savi2w/chess-tcn",
+  "description": "Encode and decode helpers for TCN algo from https://www.chess.com/",
+  "version": "1.0.0",
+  "main": "tcn.js",
+  "types": "tcn.d.ts",
+  "author": "savi2w",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^26.2.2"
+  }
+}
